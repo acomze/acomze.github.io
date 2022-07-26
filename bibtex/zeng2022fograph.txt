@@ -1,0 +1,7 @@
+@inproceedings{zeng2022fograph,
+  title={Fograph: Enabling Real-Time Deep Graph Inference with Fog Computing},
+  author={Zeng, Liekang and Huang, Peng and Luo, Ke and Zhang, Xiaoxi and Zhou, Zhi and Chen, Xu},
+  booktitle={Proceedings of the ACM Web Conference 2022},
+  pages={1774--1784},
+  year={2022}
+}
