@@ -1,0 +1,8 @@
+@inproceedings{ouyang2019cost,
+  title={Cost-aware edge resource probing for infrastructure-free edge computing: From optimal stopping to layered learning},
+  author={Ouyang, Tao and Chen, Xu and Zeng, Liekang and Zhou, Zhi},
+  booktitle={2019 IEEE Real-Time Systems Symposium (RTSS)},
+  pages={380--391},
+  year={2019},
+  organization={IEEE}
+}

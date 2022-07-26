@@ -1,0 +1,10 @@
+@article{zhou2019edge,
+  title={Edge intelligence: Paving the last mile of artificial intelligence with edge computing},
+  author={Zhou, Zhi and Chen, Xu and Li, En and Zeng, Liekang and Luo, Ke and Zhang, Junshan},
+  journal={Proceedings of the IEEE},
+  volume={107},
+  number={8},
+  pages={1738--1762},
+  year={2019},
+  publisher={IEEE}
+}
