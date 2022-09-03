@@ -1,0 +1,6 @@
+@article{ye2022eco,
+  title={Eco-FL: Adaptive Federated Learning with Efficient Edge Collaborative Pipeline Training.},
+  author={Ye, Shengyuan and Zeng, Liekang and Wu, Qiong and Luo, Ke and Fang, Qize and Chen, Xu},
+  journal={International Conference on Parallel Processing (ICPP)},
+  year={2022}
+}
