@@ -1,0 +1,7 @@
+@article{fend2022adaptive,
+  title={Adaptive Progressive Image Enhancement for Edge-Assisted Mobile Vision},
+  author={Feng, Daipeng and Zeng, Liekang and Pu, Lingjun and Chen, Xu},
+  journal={International Conference on Mobility, Sensing and Networking (MSN)},
+  year={2022},
+  publisher={IEEE}
+}

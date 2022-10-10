@@ -1,0 +1,7 @@
+@inproceedings{zeng2022gnn,
+  title={GNN at the Edge: Cost-Efficient Graph Neural Network Processing over Distributed Edge Servers},
+  author={Zeng, Liekang and Yang, Chongyu and Huang, Peng and Zhou, Zhi and Yu, Shuai and Chen, Xu},
+  booktitle={IEEE Journal on Selected Areas in Communications},
+  pages={1--1},
+  year={2022}
+}
