@@ -1,6 +1,8 @@
-@article{chen2022adadrone,
-  title={AdaDrone: Quality of Navigation Based Neural Adaptive Scheduling for Edge-Assisted Drones.},
+@inproceedings{chen2022adadrone,
+  title={AdaDrone: Quality of Navigation Based Neural Adaptive Scheduling for Edge-Assisted Drones},
   author={Chen, Haowei and Zeng, Liekang and Zhang, Xiaoxi and Chen, Xu},
-  journal={IEEE International Conference on Distributed Computing Systems (ICDCS)},
-  year={2022}
+  booktitle={2022 IEEE 42nd International Conference on Distributed Computing Systems (ICDCS)},
+  pages={548--558},
+  year={2022},
+  organization={IEEE}
 }
