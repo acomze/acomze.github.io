@@ -1,0 +1,9 @@
+@article{wang2023real,
+  title={Real-Time High-Resolution Pedestrian Detection in Crowded Scenes via Parallel Edge Offloading},
+  author={Wang, Hao and Bao, Hao and Zeng, Liekang and Luo, Ke and Chen, Xu},
+  journal={IEEE International Conference on Communications},
+  volume={0},
+  number={0},
+  pages={00--00},
+  year={2023}
+}
