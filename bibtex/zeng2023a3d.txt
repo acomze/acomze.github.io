@@ -1,0 +1,8 @@
+@inproceedings{zeng2023a3d,
+  title={A3D: Adaptive, Accurate and Autonomous Navigation for Edge-Assisted Drones},
+  author={Zeng, Liekang and Chen, Haowei and Feng, Daipeng and Zhang, Xiaoxi and Chen, Xu},
+  booktitle={IEEE/ACM Transactions on Networking},
+  pages={1--16},
+  year={2023},
+  organization={IEEE}
+}

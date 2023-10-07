@@ -1,0 +1,8 @@
+@inproceedings{zeng2023serving,
+  title={Serving Graph Neural Networks with Distributed Fog Servers for Smart IoT Services},
+  author={Zeng, Liekang and Chen, Xu and Huang, Peng and Luo, Ke and Zhang, Xiaoxi and Zhou, Zhi},
+  booktitle={IEEE/ACM Transactions on Networking},
+  pages={1--16},
+  year={2023},
+  organization={IEEE}
+}
