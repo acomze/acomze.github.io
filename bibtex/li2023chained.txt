@@ -1,0 +1,8 @@
+@inproceedings{li2023chained,
+  title={Chained-DP: Can We Recycle Privacy Budget?},
+  author={Li, Jingyi and Huang, Guangjing and Zeng, Liekang and Chen, Lin and Chen, Xu},
+  booktitle={2023 IEEE/ACM 31st International Symposium on Quality of Service (IWQoS)},
+  pages={1--4},
+  year={2023},
+  organization={IEEE}
+}
