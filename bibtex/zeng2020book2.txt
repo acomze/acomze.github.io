@@ -1,0 +1,8 @@
+@book{zeng2021book,
+  title={Edge Intelligence via Model Inference},
+  author={Zeng, Liekang and Li, En and Zhou, Zhi and Chen, Xu},
+  year={2020},
+  book={Edge Intelligence in the Making: Optimization, Deep Learning, and Applications},
+  chapter={6}
+  publisher={Springer}
+}

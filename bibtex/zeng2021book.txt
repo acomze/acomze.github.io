@@ -1,0 +1,8 @@
+@book{zeng2021book,
+  title={Edge-enabled Intelligence for Industrial IoT},
+  author={Zeng, Liekang and Li, En and Zhou, Zhi and Chen, Xu},
+  year={2021},
+  book={Intelligent IoT for the Digital World: Incorporating 5G Communications and Fog/Edge Computing Technologies},
+  chapter={2}
+  publisher={John Wiley \& Sons}
+}
