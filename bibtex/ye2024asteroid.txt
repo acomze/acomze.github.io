@@ -1,0 +1,7 @@
+@inproceedings{ye2024asteroid,
+  title={Asteroid: Resource-Efficient Hybrid Pipeline Parallelism for Collaborative DNN Training on Heterogeneous Edge Devices},
+  author={Ye, Shengyuan and Zeng, Liekang and Chu, Xiaowen and Xing, Guoliang and Chen, Xu},
+  booktitle={Proceedings of the 30th Annual International Conference on Mobile Computing and Networking},
+  pages={312--326},
+  year={2024}
+}
