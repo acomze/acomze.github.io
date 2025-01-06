@@ -1,0 +1,14 @@
+@article{10.1109/JSAC.2024.3431526,
+author = {Ma, Mulei and Gong, Chenyu and Zeng, Liekang and Yang, Yang and Wu, Liantao},
+title = {FlocOff: Data Heterogeneity Resilient Federated Learning With Communication-Efficient Edge Offloading},
+year = {2024},
+issue_date = {Nov. 2024},
+publisher = {IEEE Press},
+volume = {42},
+number = {11},
+issn = {0733-8716},
+journal = {IEEE Journal on Selected Areas in Communications},
+month = July,
+pages = {3262–3277},
+numpages = {16}
+}
